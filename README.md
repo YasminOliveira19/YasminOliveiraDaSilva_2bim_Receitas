@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como atividade avaliativa da disciplina de **Desenvolvimento Web 1 (DW1)** - 2º Bimestre de 2026.
 
-A permite consultar um banco de dados de receitas por meio de uma interface web.
+Permite consultar um banco de dados de receitas por meio de uma interface web.
 
 A comunicação entre o cliente e o servidor é realizada utilizando **JavaScript (Fetch API)**, enquanto o servidor foi desenvolvido com **Node.js** e **Express**, realizando consultas em um banco de dados **PostgreSQL** e retornando os resultados em formato **JSON**.
 
